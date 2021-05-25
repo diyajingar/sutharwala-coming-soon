@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sutharwala-coming-soon/static/css/main.18f9490c.chunk.css",
+    "main.js": "/sutharwala-coming-soon/static/js/main.7ecc0638.chunk.js",
+    "main.js.map": "/sutharwala-coming-soon/static/js/main.7ecc0638.chunk.js.map",
+    "runtime-main.js": "/sutharwala-coming-soon/static/js/runtime-main.ac554936.js",
+    "runtime-main.js.map": "/sutharwala-coming-soon/static/js/runtime-main.ac554936.js.map",
+    "static/css/2.343194d5.chunk.css": "/sutharwala-coming-soon/static/css/2.343194d5.chunk.css",
+    "static/js/2.dfe4c4a4.chunk.js": "/sutharwala-coming-soon/static/js/2.dfe4c4a4.chunk.js",
+    "static/js/2.dfe4c4a4.chunk.js.map": "/sutharwala-coming-soon/static/js/2.dfe4c4a4.chunk.js.map",
+    "static/js/3.0c2961af.chunk.js": "/sutharwala-coming-soon/static/js/3.0c2961af.chunk.js",
+    "static/js/3.0c2961af.chunk.js.map": "/sutharwala-coming-soon/static/js/3.0c2961af.chunk.js.map",
+    "index.html": "/sutharwala-coming-soon/index.html",
+    "static/css/2.343194d5.chunk.css.map": "/sutharwala-coming-soon/static/css/2.343194d5.chunk.css.map",
+    "static/css/main.18f9490c.chunk.css.map": "/sutharwala-coming-soon/static/css/main.18f9490c.chunk.css.map",
+    "static/js/2.dfe4c4a4.chunk.js.LICENSE.txt": "/sutharwala-coming-soon/static/js/2.dfe4c4a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac554936.js",
+    "static/css/2.343194d5.chunk.css",
+    "static/js/2.dfe4c4a4.chunk.js",
+    "static/css/main.18f9490c.chunk.css",
+    "static/js/main.7ecc0638.chunk.js"
+  ]
+}
